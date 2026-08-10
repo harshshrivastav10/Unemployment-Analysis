@@ -1,5 +1,3 @@
-# Unemployment-Analysis
-
 # Unemployment Analysis 📊
 
 A Python-based **Exploratory Data Analysis (EDA)** project on unemployment data in India.
@@ -13,13 +11,31 @@ A Python-based **Exploratory Data Analysis (EDA)** project on unemployment data 
 * Seaborn
 * Jupyter Notebook
 
+## 🎯 Objectives
+
+* Analyze unemployment rates across different regions
+* Study changes in unemployment over time
+* Analyze estimated employment levels
+* Understand labour participation rates
+* Compare different geographical regions
+* Identify patterns in the data
+* Present findings through visualizations
+
 ## 📌 Analysis
 
 * Data cleaning and preprocessing
 * Unemployment rate analysis
 * Estimated employment analysis
 * Regional comparison
-* Data visualization using charts
+* Data visualization
+
+### 📊 Visualizations
+
+* 📈 Line plots
+* 📊 Bar charts
+* 📉 Distribution plots
+* 📦 Box plots
+* 📊 Histograms
 
 ## 📂 Files
 
